@@ -11,7 +11,7 @@ Para ejecutar el sistema de recomendación, necesitarás tener instalado Docker 
 1. Clona el repositorio:
 
 bash
-git clone https://github.com/statick88/SistemaRecomendacion.git
+git clone https://github.com/pacoquiroga/SistemaRecomendacion
 
 2. Instalación de bibliotecas desde el archivo requirements.txt
 
